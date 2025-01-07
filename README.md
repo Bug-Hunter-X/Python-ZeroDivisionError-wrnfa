@@ -1,0 +1,1 @@
+This repository contains a simple Python script demonstrating a common error: ZeroDivisionError.  The script includes the problematic code and a corrected version.
